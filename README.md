@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-##NAME: Prarthana D
-##REG NO: 212225230213
+## NAME: Prarthana D
+## REG NO: 212225230213
 
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
